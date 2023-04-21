@@ -1,5 +1,5 @@
 # JSON SERVER
 
 {
-    "users":[]
+    "posts":[]
 }
